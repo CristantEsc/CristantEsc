@@ -1,6 +1,7 @@
-## Hi there 👋
+<!--Cuenta para la escuela con código copiado, no tomar en serio -->
+## ¡Hola! 👋
 <div align="center">
-<h1 align="center">Bienvenido a mi página de Github. <br> Soy cristante Morán</h1>
+<h1 align="center">Bienvenido a mi página de Github. <br> Soy Cristante Morán</h1>
 </div>
 <!--![Nuevo Banner]()-->
 <img src="https://github.com/user-attachments/assets/ccba7b52-c2b3-43b2-8de0-3c4c9ba884ec" width="100%" height="auto">
@@ -12,6 +13,7 @@
 
 ## Sobre mi
 
+Hola, soy un programador en ascenso con muchas habilidades. Quiero tener un sitio web donde pueda publicar tutoriales de programación. Actualmente estoy estudiando preparatoria. Mas información sobre mi:
 - 🔭 Estoy trabajando en un sitio web de cocodrilos.
 - 🌱 Estoy aprendiendo a usar bases de datos.
 - 📫 Puedes contactarme en mis redes sociales a continuación: 
