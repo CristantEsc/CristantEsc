@@ -1,32 +1,26 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on Something.
-- 🌱 I’m currently learning Nothing.
-- 👯 I’m looking to collaborate with no-one.
-- 🤔 I’m looking for help with Everything.
-- 💬 Ask me about nothing.
-- 📫 How to reach me: Don't.
-
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">DidierGalicia</a> 👋</h1>
+<h1 align="center">Bienvenido a mi página de Github. <br> Soy cristante Morán</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<!--![Nuevo Banner]()-->
+<img src="https://github.com/user-attachments/assets/ccba7b52-c2b3-43b2-8de0-3c4c9ba884ec" width="100%" height="auto">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+<!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)-->
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🔭 Estoy trabajando en un sitio web de cocodrilos.
+- 🌱 Estoy aprendiendo a usar bases de datos.
+- 📫 Puedes contactarme en mis redes sociales a continuación: 
 <br>
 
+## Redes sociales 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2KjbXrBlxHrDvIutb6P-vw)
+
+<!--
 ## Proyectos bombitas
 <table>
 <tr>
@@ -105,3 +99,4 @@
 </table>                                                                                 
 </div>
 <br>
+-->
