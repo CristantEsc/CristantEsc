@@ -13,10 +13,16 @@
 
 ## Sobre mi
 
-Hola, soy un programador en ascenso con muchas habilidades. Quiero tener un sitio web donde pueda publicar tutoriales de programación. Actualmente estoy estudiando preparatoria. Mas información sobre mi:
+<!--!Hola, soy un programador en ascenso con muchas habilidades. Quiero tener un sitio web donde pueda publicar tutoriales de programación. Actualmente estoy estudiando preparatoria. Mas información sobre mi:
 - 🔭 Estoy trabajando en un sitio web de cocodrilos.
 - 🌱 Estoy aprendiendo a usar bases de datos.
-- 📫 Puedes contactarme en mis redes sociales a continuación: 
+- 📫 Puedes contactarme en mis redes sociales a continuación: -->
+Hola, soy un programador en ascenso con muchas habilidades. Quiero tener un sitio web donde pueda publicar tutoriales de programación y compartir mi conocimiento. Actualmente estoy estudiando preparatoria. Aquí hay más información sobre mí:
+🔭 Estoy trabajando en un sitio web de cocodrilos, donde compartiré datos curiosos y recursos relacionados con estos fascinantes reptiles.
+🌱 Estoy aprendiendo a usar bases de datos, explorando herramientas como SQL y MongoDB, y cómo integrarlas en mis proyectos.
+💻 Tengo experiencia en [menciona algunos lenguajes de programación que dominas, como Python, JavaScript, HTML/CSS, etc.], y me apasiona desarrollar aplicaciones web.
+📚 En mi tiempo libre, disfruto leer sobre nuevas tecnologías y tendencias en programación, así como participar en proyectos de código abierto.
+
 <br>
 
 ## Redes sociales 
