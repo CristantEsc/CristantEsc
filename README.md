@@ -24,7 +24,10 @@
 <br>
 
 ## Redes sociales 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2KjbXrBlxHrDvIutb6P-vw)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2KjbXrBlxHrDvIutb6P-vw) <br>
+![GitHub followers](https://img.shields.io/github/followers/CristantEsc) <br>
+![GitHub watchers](https://img.shields.io/github/watchers/CristantEsc/CristantEsc) <br>
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/github) <br>
 
 <!--
 ## Proyectos bombitas
