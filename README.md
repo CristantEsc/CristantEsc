@@ -23,6 +23,46 @@
 - 📚 En mi tiempo libre, disfruto leer sobre nuevas tecnologías y tendencias en programación, así como participar en proyectos de código abierto.
 <br>
 
+## Mis videos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Video 1: Como hacer un documento de HTML en bloc de notas</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=5PksFoA6RmU" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYJdN96R9JmxwKmRxy7CIAQQcfEWwNHSu9g&s" width="400" alt="Curso intermedio Android"></a>
+<!--<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>-->
+<p>Primera parte del video, enseño lo básico de HTML y como hacerlo desde el poderosísimo bloc de notas.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Video 2: Como abrir un archivo de HTML en tu navegador</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=Oc4JcUL1OOs" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYJdN96R9JmxwKmRxy7CIAQQcfEWwNHSu9g&s" width="400" alt="Curso Kotlin Multiplatform"></a>
+<!--<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>-->
+</p>
+<p>Segunda parte de mi video: Aqui enseño a abrir el código HTML en github</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
 ## Redes sociales 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2KjbXrBlxHrDvIutb6P-vw) <br>
 ![GitHub followers](https://img.shields.io/github/followers/CristantEsc) <br>
